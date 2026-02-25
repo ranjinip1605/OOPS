@@ -1,0 +1,86 @@
+/* ===== General Body ===== */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff6f0;
+}
+
+/* ===== Header ===== */
+header {
+    background-color: #b71c1c;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    margin-top: 8px;
+    font-size: 16px;
+}
+
+/* ===== Navigation Bar ===== */
+nav {
+    background-color: #e53935;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 18px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* ===== Sections ===== */
+section {
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+section h2 {
+    color: #b71c1c;
+}
+
+/* ===== Lists ===== */
+ul {
+    line-height: 1.8;
+    font-size: 16px;
+}
+
+/* ===== Back Button ===== */
+.back-btn {
+    background-color: #b71c1c;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.back-btn:hover {
+    background-color: #7f0000;
+}
+
+/* ===== Footer ===== */
+footer {
+    background-color: #b71c1c;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    margin-top: 30px;
+}
